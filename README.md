@@ -1,3 +1,3 @@
 # This is my first Git Project
 
-<p>Rushiraj Brahmbhatt</p>
+<p>Rushiraj - (Devoxy Technocrats)</p>
